@@ -1,0 +1,8 @@
+{
+  "name": "@byted/img-cache",
+  "version": "1.0.0",
+  "description": "Cache sensitive images and convert them to base64.",
+  "main": "index.ts",
+  "author": "wangweixin",
+  "license": "MIT"
+}
